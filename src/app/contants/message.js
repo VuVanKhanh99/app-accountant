@@ -1,0 +1,1 @@
+export const durableTimeMessage = 3000
